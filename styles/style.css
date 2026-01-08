@@ -53,3 +53,69 @@ nav{
     padding: 8px 10px;
     border-radius: 4px;
 }
+
+#about{
+    max-width: 1600px;
+    height: 674px;
+    background: url(../assets/hero-bg.png);
+    border: 1px solid aqua;
+}
+.about-container{
+    width: 1360px;
+    text-align: center;
+    margin: 154px auto;
+    /* border: 2px solid aquamarine; */
+}
+.about-container h3{
+    /* border: 2px solid red; */
+    width: 229px;
+    height: 35px;
+    margin: 0 auto;
+    background: aqua;
+    padding: 8px 12px 8px 12px;
+    gap: 6px;
+    /* text-align: center; */
+    background: rgba(255, 255, 255, 1);
+    border-radius: 1000px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #469165;
+    margin-bottom: 16px;
+}
+.about-container h1{
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 84px;
+    width: 770px;
+    text-align: center;
+    margin: 0 auto;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+.color{
+    color: #30B868;
+}
+.about-container p{
+    font-size: 18px;
+    line-height: 24px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 24px;
+    margin-bottom: 32px;
+    color: #FFFFFF;
+}
+.about-btne-one{
+    padding: 16px 12px;
+    border-radius: 4px;
+    /* border: none; */
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    cursor: pointer;
+    line-height: 19px;
+    text-align: center;
+    background: transparent;
+    gap: 24px;
+    
+}

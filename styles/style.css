@@ -171,3 +171,41 @@ nav{
     color: #627382;
     margin-top: 16px;
 }
+#second-brain-section{
+    width: 1360px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 120px;
+    gap: 70px;
+}
+.second-brain-imags img{
+    width: 100%;
+    border-radius: 12px;
+}
+.second-brain-text{
+width: 700px;
+}
+.second-brain-text h3{
+    font-size: 16px;
+    line-height: 20px;
+    color: #469165;
+    margin-bottom: 16px;
+}
+.second-brain-text h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.second-brain-text p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+.second-brain-text li{
+    font-size: 16px;
+    line-height: 25px;
+    color: #001931;
+}

@@ -194,12 +194,19 @@ nav{
     margin-top: 16px;
 }
 #second-brain-section{
+    width: 1600px;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+.secod-brain{
     width: 1360px;
     display: flex;
-    align-items: center;
     margin: 0 auto;
-    margin-top: 120px;
-    gap: 70px;
+    align-items: center;
+    gap: 60px;
+
+    
 }
 .second-brain-imags img{
     width: 100%;

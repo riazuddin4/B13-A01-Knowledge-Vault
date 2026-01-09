@@ -209,3 +209,36 @@ width: 700px;
     line-height: 25px;
     color: #001931;
 }
+
+#early-access-section{
+    max-width: 1600px;
+    margin: 120px 0;
+    border: 2px solid red;
+}
+.early-access-section-heading{
+    width: 1360px;
+    background: #F7F6F2;
+    margin: 0 auto;
+    padding: 80px 40px 80px 40px;
+    text-align: center;
+}
+.early-access-section-heading h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin: 80px 40px 16px 40px;
+}
+.early-access-section-heading p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    width: 1280px;
+    margin-bottom: 40px;
+}
+.early-text{
+    margin-top: 30px;
+}
+.footer-section{
+    max-width: 1600px;
+    background: #001931;
+}
